@@ -24,3 +24,4 @@ C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CarInsuranceAppl
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CarInsuranceApplication\CarInsuranceApplication\obj\Debug\netcoreapp3.1\CarInsuranceApplication.dll
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CarInsuranceApplication\CarInsuranceApplication\obj\Debug\netcoreapp3.1\CarInsuranceApplication.pdb
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CarInsuranceApplication\CarInsuranceApplication\obj\Debug\netcoreapp3.1\CarInsuranceApplication.genruntimeconfig.cache
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CarInsuranceApplication\CarInsuranceApplication\obj\Debug\netcoreapp3.1\CarInsuranceApplication.GeneratedMSBuildEditorConfig.editorconfig

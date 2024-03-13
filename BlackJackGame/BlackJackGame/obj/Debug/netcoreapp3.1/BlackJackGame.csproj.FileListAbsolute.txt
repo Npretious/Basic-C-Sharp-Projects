@@ -27,3 +27,9 @@ C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\Bl
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\Casino.pdb
 C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\obj\Debug\netcoreapp3.1\BlackJackGame.csproj.CopyComplete
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nickp\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BlackJackGame\BlackJackGame\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
